@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sum-of-array",
+    "chapterId": "arrays",
+    "title": "Sum of Array",
+    "description": "Given an array of N integers, find their sum.",
+    "input": "First line contains integer N. Second line contains N integers separated by space.",
+    "output": "Output the sum of given N integers.",
+    "sampleInput": "5\n1 2 3 4 5",
+    "sampleOutput": "15",
+    "testCases": [
+      {
+        "input": "3\n2 8 10",
+        "output": "20"
+      },
+      {
+        "input": "4\n0 1 1 2",
+        "output": "4"
+      }
+    ]
+  },
+  {
+    "id": "reverse-array",
+    "chapterId": "arrays",
+    "title": "Reverse Array",
+    "description": "Given an array of N integers, print the array in reverse order.",
+    "input": "First line contains integer N. Second line contains N integers.",
+    "output": "Print the numbers in reverse order separated by space.",
+    "sampleInput": "4\n10 20 30 40",
+    "sampleOutput": "40 30 20 10",
+    "testCases": [
+      {
+        "input": "5\n1 2 3 4 5",
+        "output": "5 4 3 2 1"
+      }
+    ]
+  }
+]

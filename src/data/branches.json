@@ -1,0 +1,7 @@
+/* (src/data/branches.json) */
+[
+  { "id": "cse", "name": "Computer Science & Engineering" },
+  { "id": "ece", "name": "Electronics & Communication Engineering" },
+  { "id": "mech", "name": "Mechanical Engineering" },
+  { "id": "it", "name": "Information Technology" }
+]

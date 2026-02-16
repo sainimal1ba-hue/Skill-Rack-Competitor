@@ -1,0 +1,21 @@
+:root {
+  --color-primary: #0f62fe;
+  --color-secondary: #ff832b;
+  --color-success: #25a244;
+  --color-danger: #f44336;
+  --color-bg: #fafafd;
+  --color-bg-card: #fff;
+  --color-text: #222;
+  --color-text-secondary: #5a6270;
+  --color-accent: #f2f2f6;
+}
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+.card {
+  background: var(--color-bg-card);
+  border-radius: 8px;
+  box-shadow: 0 1px 8px 0 rgba(24, 44, 97, 0.05);
+}

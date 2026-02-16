@@ -1,0 +1,42 @@
+[
+  {
+    "id": "arrays",
+    "branchId": "cse",
+    "name": "Arrays"
+  },
+  {
+    "id": "linked-list",
+    "branchId": "cse",
+    "name": "Linked List"
+  },
+  {
+    "id": "stack",
+    "branchId": "cse",
+    "name": "Stack"
+  },
+  {
+    "id": "queue",
+    "branchId": "cse",
+    "name": "Queue"
+  },
+  {
+    "id": "semiconductors",
+    "branchId": "ece",
+    "name": "Semiconductors"
+  },
+  {
+    "id": "digital-logic",
+    "branchId": "ece",
+    "name": "Digital Logic"
+  },
+  {
+    "id": "thermodynamics",
+    "branchId": "mech",
+    "name": "Thermodynamics"
+  },
+  {
+    "id": "ooad",
+    "branchId": "it",
+    "name": "OOAD"
+  }
+]
