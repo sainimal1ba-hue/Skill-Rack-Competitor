@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillRack Competitor
 
 A competitive programming platform built with React and Vite, featuring code practice, contests, and comprehensive tracking of your coding progress.
@@ -178,3 +179,7 @@ For issues and questions, please open an issue on GitHub or contact the developm
 ---
 
 Built with ❤️ using React and Vite
+=======
+# Skill-Rack-Competitor
+PRO CODING WEBSITE. TO HAVE ADMIN POWERS USE THE ACC:- admin and the PASSWORD is also admin
+>>>>>>> 549ad5355c02b5ace23ef5496a01f48ada4ed413
